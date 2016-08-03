@@ -1,0 +1,33 @@
+body {
+  background-color: AliceBlue;
+  font-family: "Courier New", Courier, monospace;
+}
+
+div {
+  /*width*/
+  /*width: 500px;*/
+  width: 50%;
+
+  /*padding*/
+  padding: 30px;
+
+  /*border*/
+  border: 5px solid blue;
+  border-radius: 25px;
+
+  /*margin*/
+  /*margin: 25px;*/
+  margin: auto;
+
+  /*text-align: center;*/
+}
+
+p {
+  background-color: LightGreen;
+  width: 50%;
+  /*float: right;*/
+}
+
+.image {
+  text-align: center;
+}
